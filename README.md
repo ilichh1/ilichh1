@@ -53,4 +53,4 @@ Guadalajara Metropolitan Area, Jalisco, Mexico
 Installed, maintained, and customized CMS such as WordPress and Drupal. Gathered requirements and implemented them. Worked mainly with HTML, JavaScript & PHP. Occasionally maintained Linux servers running CentOS & Ubuntu.
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilichh1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilichh1)](https://github.com/ilichh1)
