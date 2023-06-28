@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 ![Header Image](https://github.com/ilichh1/ilichh1/assets/13463341/85c07c7b-e572-45ec-83c8-6770ac16210b)
 
 # Ilich Arredondo
-
-## Contact Information
 - Email: ilichh1 at hotmail dot com
 - [LinkedIn](https://linkedin.com/in/ilichh1)
 
